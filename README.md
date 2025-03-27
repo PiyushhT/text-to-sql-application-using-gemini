@@ -1,1 +1,2 @@
-# text-to-sql-application-using-gemini
+# text-to-sql-application-using-
+"I’ve developed a text-to-SQL application using Gemini, which converts natural language input into SQL queries. By leveraging the power of Gemini, the application efficiently understands and processes user queries, translating them into precise SQL syntax for database interactions. This tool makes it easier for non-technical users to generate complex database queries, empowering them to access and analyze data with ease."
